@@ -114,6 +114,7 @@ This could be conducted either as a part of a Design Sprint or as an internal pr
 - Enable usability testing with realistic interactions.
 
 This could be conducted either as a part of a Design Sprint or as an internal process between various actors at PRIO.
+
 ---
 
 ### **Step 6: Testing**
@@ -126,6 +127,7 @@ This could be conducted either as a part of a Design Sprint or as an internal pr
 - Implement changes to refine the design before final development.
 
 This could be conducted either as a part of a Design Sprint or as an internal process between various actors at PRIO.
+
 ---
 
 ### **Step 7: Launch**
@@ -154,6 +156,3 @@ Constantly refine the design and internal library for plotting, maps and interac
 In the last phase I would iterate and gather feedback as well as launch a plan for operation, maintanance and further improvement.
 
 I would also make sure that there is a dedicated product owner/stakeholder both at the technical level but also on the user side (researcher, department head etc.) to make sure the application is maintained.
-
----
-
